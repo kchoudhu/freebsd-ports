@@ -135,6 +135,7 @@ include/python%%XYDOT%%%%ABI%%/py_curses.h
 include/python%%XYDOT%%%%ABI%%/pycapsule.h
 include/python%%XYDOT%%%%ABI%%/pyconfig.h
 include/python%%XYDOT%%%%ABI%%/pydtrace.h
+%%DTRACE%%include/python%%XYDOT%%%%ABI%%/pydtrace_probes.h
 include/python%%XYDOT%%%%ABI%%/pyerrors.h
 include/python%%XYDOT%%%%ABI%%/pyexpat.h
 include/python%%XYDOT%%%%ABI%%/pyframe.h
